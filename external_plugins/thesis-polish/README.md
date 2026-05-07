@@ -31,6 +31,10 @@ Naturalize academic text to improve writing quality, suitable for:
 
 Paste the text you want polished in a Claude Code conversation, or provide a file path. The plugin triggers automatically and rewrites the text for more natural, human-like expression.
 
+## Privacy
+
+This plugin does not collect, store, or transmit any user data. It operates entirely within Claude Code as a skill definition file (SKILL.md) that provides text rewriting instructions. No network requests, no analytics, no tracking.
+
 ## License
 
 MIT License
