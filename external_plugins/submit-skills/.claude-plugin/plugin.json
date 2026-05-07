@@ -1,0 +1,11 @@
+{
+  "name": "submit-skills",
+  "version": "1.0.0",
+  "description": "Streamline the process of packaging and submitting custom Claude Code skills to the official plugin marketplace, handling plugin structure creation, compliance checks, GitHub hosting, and form preparation.",
+  "author": {
+    "name": "sakeh",
+    "email": "sakeh1839@gmail.com"
+  },
+  "homepage": "https://github.com/sakeh/submit-skills-plugin",
+  "repository": "https://github.com/sakeh/submit-skills-plugin"
+}
