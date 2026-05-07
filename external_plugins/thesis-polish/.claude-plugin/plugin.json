@@ -1,0 +1,11 @@
+{
+  "name": "thesis-polish",
+  "version": "1.0.0",
+  "description": "Improve Chinese academic thesis writing quality by making AI-assisted drafts sound more natural and human-like, helping undergraduate students refine their writing style while maintaining academic rigor.",
+  "author": {
+    "name": "sakeh",
+    "email": "sakeh1839@gmail.com"
+  },
+  "homepage": "https://github.com/sakeh/thesis-polish",
+  "repository": "https://github.com/sakeh/thesis-polish"
+}
