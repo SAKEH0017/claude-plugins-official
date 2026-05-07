@@ -1,0 +1,11 @@
+{
+  "name": "reduce-ai",
+  "version": "1.0.0",
+  "description": "降低中文学术论文（本科论文）的AIGC检测率——把AI腔改成更自然的人类写作风格。适用于论文降重、去AI痕迹、学术文本润色等场景。",
+  "author": {
+    "name": "sakeh",
+    "email": "sakeh1839@gmail.com"
+  },
+  "homepage": "https://github.com/sakeh/reduce-ai-plugin",
+  "repository": "https://github.com/sakeh/reduce-ai-plugin"
+}
