@@ -1,0 +1,8 @@
+{
+  "name": "xiaohei-illust",
+  "description": "Generate 16:9 white-background hand-drawn Chinese-style illustrations for blog articles using the Xiaohei IP character. Reads the article, extracts 3-5 visual anchors, and produces illustrations via the minimax text-to-image API. Includes a heuristic paragraph scorer and bilingual skill instructions.",
+  "author": {
+    "name": "SAKEH0017",
+    "email": "sakeh1839@gmail.com"
+  }
+}
